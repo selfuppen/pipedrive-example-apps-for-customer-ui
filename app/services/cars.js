@@ -3,7 +3,7 @@ import connection from '~/services/db';
 const defaults = [
 	{
 		id: 'qwe',
-		title: 'Molksvagen 2022',
+		title: 'STC 2022',
 		price: 'USD 2000.00',
 		status: 'assembling',
 		delivery: '31 Aug 2022, 9:00pm',
